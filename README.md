@@ -24,4 +24,4 @@ curl --location --request PUT 'https://test-l00490846.obs.af-south-1.myhuaweiclo
 
 NOTES: "Authorization" format should be OBS <your_ak>:<your_signature_from_step_1>
        "Date" format should be the same output with step 1
-       Interval <= 15mins
+       Interval <= 15mins, Please update your 'sk' on the Python script accordingly
